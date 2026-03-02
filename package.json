@@ -1,0 +1,25 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "The AI Mixed Language Translator API is a next-generation localization tool designed to translate standard source languages into natural, culturally resonant mixed languages—such as Hinglish (Hindi + English), Spanglish (Spanish + English), or Taglish (Tagalog + English).",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.4",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "vite": "^7.3.1"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.98.0",
+    "lucide-react": "^0.576.0",
+    "zustand": "^5.0.11"
+  }
+}
